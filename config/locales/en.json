@@ -1,0 +1,17 @@
+{
+	"passwordRequired": "Password field required",
+	"passwordRequirements": "Password must be 6 to 20 characters long",
+	"invalidEmail": "Invalid email",
+	"emailRequired": "Email field required",
+	"emailTaken": "Email address is already taken",
+	"failedAuthenticateToken": "Failed to authenticate token",
+	"failedAuthenticateUserDeletedOrTokenExpires": "User deleted or token expires",
+	"noToken": "No token provided",
+	"noTokenKey": "No token key provided",
+	"invalidToken": "Invalid token",
+	"incorrectEmailPassword": "Incorrect email or password",
+	"imageTypeRequired": "Image type required",
+	"invalidImageType": "Invalid image type",
+	"serverError": "Server temporary unavailable",
+	"invalidMongoId": "Invalid mongo id"
+}
